@@ -10,5 +10,8 @@ public class TestGit {
         System.out.println("hello,git2");
         System.out.println("hello,git3");
         System.out.println("hello,git4");
+        int i = 1;
+        int j = 2;
+        System.out.println(i + j);
     }
 }
